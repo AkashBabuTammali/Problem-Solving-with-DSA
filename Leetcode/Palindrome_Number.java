@@ -1,7 +1,8 @@
 /*
  * 9. Palindrome Number
- * Problem Link: https://leetcode.com/problems/palindrome-number/description/
-*/
+ * Problem Link: https://leetcode.com/problems/palindrome-number/
+ * Algorithm: -
+ */
 class Solution {
     public boolean isPalindrome(int x) {
         //If x contain negative number or number which is divisible by 10 but'nt 0 then return false

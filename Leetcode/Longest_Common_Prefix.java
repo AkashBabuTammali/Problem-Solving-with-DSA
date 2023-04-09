@@ -1,7 +1,8 @@
 /*
-14. Longest Common Prefix
-Problem Link: https://leetcode.com/problems/longest-common-prefix/description/
-*/
+ * 14. Longest Common Prefix
+ * Problem Link: https://leetcode.com/problems/longest-common-prefix/description/
+ * Algorithm: -
+ */
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         //Looping over characters of first string

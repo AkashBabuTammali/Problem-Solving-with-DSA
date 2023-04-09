@@ -1,6 +1,7 @@
 /*
  * 67. Add Binary
- * Problem Link: https://leetcode.com/problems/add-binary/description/
+ * Problem Link: https://leetcode.com/problems/add-binary/
+ * Algorithm: -
 */
 class Solution {
     public String addBinary(String a, String b) {
